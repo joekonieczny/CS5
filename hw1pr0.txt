@@ -1,0 +1,8 @@
+Joe Konieczny, Prompt #2
+
+    I disagree with this on the simple premise that models, while certainly flawed, are crucial to predicting future
+events. As actions happen in real time, such as the creation of new data, Google's motto of simply forgoing models
+and instead using supercomputers to process that information blindly is certainly compelling. However computers, artificial
+intelligence, and even human beings can only make predictions and assumptions of the future by modeling based on previous data.
+Dropping models could lead to more accurate predictions, but for example you wouldn't want a car that dealt with engine problems
+in real time. Rather, you'd want one that uses modeling and real-time data to predict that you'll need an oil change soon.
