@@ -1,0 +1,8 @@
+There absolutely have been times that I feel like my thought has been limited by my language.
+I am an Arabic language minor, and I feel like many words express thoughts in Arabic that have no direct translation in English, such as insha'allah and alhamdulilah.
+Many of these have a religious connotation but also represent important concepts that I cannot translate.
+For example, insha'allah refers to a generic future that we have no tense, or way of expressing, in English.
+I imagine that coding and programming feels similar limitations-- you must express ideas and concepts we understand in a more limited and structured language.
+I don't know if artificial languages can shape human thought, but I think that artificial languages have potential to cross linguistic lines, as well as help model in simple terms complex grammatical functions.
+One example of this that comes to mind are grammatical particles in Arabic, such as "hael."
+Hael has no direct translation, and is used to edit the structure to the subsequent sentence, just like if and elif edit the logical flow of a block. 
